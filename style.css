@@ -14,7 +14,7 @@ html {
 
 body {
   margin: 0;
-  background: url("./notes-backgroundjpg.jpg");
+  background: url("./notes-background.jpg");
   background-size: cover;
   background-position: 50% 60%;
   background-attachment: fixed;
